@@ -1,0 +1,23 @@
+{
+  "name": "ilcwonk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "cli-tidalu-game": "index.js"
+  },
+  "keywords": [
+    "quiz",
+    "cli",
+    "node.js",
+    "javascript",
+    "npm"
+  ],
+  "author": "Ulugbek Norbutaev",
+  "license": "ISC",
+  "description": "Test your cli knowledge with this awesome cli quiz.",
+  "dependencies": {
+    "@clack/prompts": "^0.7.0",
+    "ilcwonk": "^1.0.0"
+  }
+}
